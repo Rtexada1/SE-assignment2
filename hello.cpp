@@ -6,6 +6,5 @@ int main() {
 	cout << "Enter your name: ";
 	cin >> name1;
 	cout << "Hello, " << name1 << "!" << endl;
-	return 0;
 	cout << "Welcome to GitHub Version Control!" << endl;
 }
